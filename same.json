@@ -1,0 +1,46 @@
+{
+  "username": "you_now_me",
+  "full_name": "You Now Me",
+  "user_id": "9876543210",
+  "account_type": "public",
+  "bio": "Living in the moment ✨ | Digital Creator | Tech & Lifestyle",
+  "profile_picture_url": "https://example.com/profile.jpg",
+  "followers_count": 12540,
+  "following_count": 540,
+  "posts_count": 128,
+  "is_verified": false,
+  "is_private": false,
+  "is_active": true,
+  "account_created": "2022-06-15T10:30:00Z",
+  "last_active": "2026-03-02T09:15:00Z",
+  "engagement_rate": 4.8,
+  "contact_info": {
+    "email": "younowme@example.com",
+    "phone": null,
+    "website": "https://younowme.com"
+  },
+  "recent_posts": [
+    {
+      "post_id": "post_001",
+      "caption": "New beginnings 🚀",
+      "likes": 1540,
+      "comments": 120,
+      "posted_at": "2026-03-01T14:00:00Z",
+      "is_reel": false
+    },
+    {
+      "post_id": "post_002",
+      "caption": "Late night coding 💻🔥",
+      "likes": 2100,
+      "comments": 245,
+      "posted_at": "2026-02-28T20:45:00Z",
+      "is_reel": true
+    }
+  ],
+  "stories_active": true,
+  "highlights": [
+    "Travel",
+    "Tech",
+    "Daily Life"
+  ]
+}

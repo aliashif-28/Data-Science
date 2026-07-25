@@ -1,0 +1,1 @@
+print(eval(input("enter your number and calculate the value:-  ")))

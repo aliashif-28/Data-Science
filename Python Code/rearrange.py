@@ -1,4 +1,4 @@
-def ReArrange(arr):
+"""def ReArrange(arr):
     left = 0
     right = len(arr) - 1
 
@@ -14,5 +14,9 @@ def ReArrange(arr):
             right -= 1
 
     return arr
-arr = [1,0,1,0,1,1,0]
-print(ReArrange(arr))
+arr = [1,0,1,0,1,1,0,]
+print(ReArrange(arr))"""
+import numpy as np
+arr = np.array([[1,2,3],[4,5,6]])
+print(arr)
+print(np.percentile(arr,75))
